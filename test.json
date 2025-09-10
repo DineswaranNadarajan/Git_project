@@ -1,7 +1,7 @@
 {
-    "id": "/subscriptions/b5c0aaab-7e02-4f85-be1d-452201e9c3bf/resourcegroups/acceleruslive-cluster-ae-rg/providers/Microsoft.ContainerService/managedClusters/accelerus-aks-cluster-australiaeast",
-    "location": "australiaeast",
-    "name": "accelerus-aks-cluster-australiaeast",
+    "id": "/subscriptions/",
+    "location": "India",
+    "name": "Dines-VM-001",
     "tags": {
-        "Project": "Accelerus - Worker Service"
+        "Project": "GitProject"
     }}
